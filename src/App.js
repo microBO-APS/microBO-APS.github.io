@@ -17,10 +17,10 @@ function App() {
         </div> 
         <div className="AppContainer">
         <Switch>
-            <Route exact path="/">
+            <Route exact path="/microbo-site">
               <Home />
             </Route>
-            <Route path="/Service">
+            <Route path="microbo-site/Service">
               <Service />
             </Route>
           </Switch>
