@@ -1,6 +1,7 @@
 name: Deployment
 on:
-  tags:
+  push:
+    tags:
     - v*
 
 jobs:
