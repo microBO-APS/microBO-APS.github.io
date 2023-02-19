@@ -1,0 +1,116 @@
+@keyframes fadeInFromNone {
+    0% {
+        display: none;
+        opacity: 0;
+    }
+    1% {
+        display: block;
+        opacity: 0;
+    }
+    100% {
+        display: block;
+        opacity: 1;
+    }
+}
+
+/* PC PC PC PC*//* PC PC PC PC*//* PC PC PC PC*//* PC PC PC PC*//* PC PC PC PC*//* PC PC PC PC*//* PC PC PC PC*//* PC PC PC PC*/
+
+@media only screen and (min-width:1000px){
+    .Sala{
+        position: relative;
+        display: grid;
+        grid-template-columns: 35% 35% 30%;
+        text-align: left;
+        padding:50px 30px 20px 30px;
+        margin-top: 3%;
+        margin-left: 3%;
+        margin-right: 3%;
+        background-repeat: no-repeat;
+        background-size: 22%;
+        background-attachment: fixed;
+        background-position: 89% 55%;
+        border-radius: 20px;
+        background-color:rgb(245, 245, 245);
+        height: 600px;
+        overflow:hidden;
+    }
+        .hideBckg{
+            position: relative;
+            height: 10%;
+            top:-8.7%;
+            background-color:rgb(245, 245, 245);
+        }
+    .leftImage{
+        width: 100%;   
+        animation: fadeInFromNone 0.5s ease-out;     
+    }
+        .salaNameCarousel{
+            position: relative;
+            top: 5.5%;
+            left:5%;
+            color:black;
+            font-size: 20px;
+            font-weight: bold;
+            background-color: rgb(245, 245, 245);
+            padding:10px;
+            border-radius: 0 0 10px 0;
+            z-index: 2;
+        }
+        /* salaProveCarousel from carousel css */
+        /* salaProveCarouselImage from carousel css */
+    .rightContent {
+        position: relative;
+        right:0%;
+        margin-right: 10%;
+        animation: fadeInFromNone 0.5s ease-out;
+    }
+        .summaryBar{
+            position: relative;
+            padding:10px;
+            width: 70%;
+            background-color: rgb(235, 235, 235);
+            border-radius: 30px;
+            display: flex;
+            justify-content: space-evenly;
+        }
+        .textSummary1{
+            position: relative;
+            margin-left:-10px;
+        }
+        .textSummary2{
+            position: relative;
+            margin-left:-10px;
+        }
+        .dividerSummary{
+            border-left: 1px solid rgb(58, 58, 58);
+        }
+        .rightContent p{
+            background-color: rgb(245, 245, 245);
+            border-radius: 10px;
+ 
+            width: 85%;
+        }
+        .calendarPanel{
+            position: relative;
+            top: -10px;
+            display: none;
+            animation: fadeInFromNone 0.5s ease-out;
+        }
+        .buttonCalendarContainer{
+            position: relative;
+            width:100%;
+            display: flex;
+            margin-top: 20px;
+        }
+        .buttonCalendar{
+            margin:auto;
+            margin-top:0px;
+        }
+    .CalendarRigth{
+        position: relative;
+        margin-left: 5%;
+        vertical-align: middle;
+        display: flex;
+        align-items: center;
+    }
+}

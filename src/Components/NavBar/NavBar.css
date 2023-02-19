@@ -1,0 +1,42 @@
+.NavbarContainer {
+    overflow: hidden;
+    background-color: rgb(53, 53, 53);
+    position: fixed;
+    z-index:100;
+    width: 100%;
+  }
+  
+  .NavbarContainer .li {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top:-15px;
+  }
+  
+  .NavbarContainer .li:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .NavbarContainer .li.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .NavbaRight {
+    float: right;
+    margin-right: 10px;
+  }
+  @media only screen and (max-width:500px){
+    .NavbarContainer {
+      overflow: hidden;
+      background-color: rgb(53, 53, 53);
+      position: fixed;
+      top:0;
+      z-index:100;
+      width: 100%;
+    }
+  }
