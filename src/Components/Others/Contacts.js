@@ -35,11 +35,12 @@ const Contacts = () => {
         <div className='rightContent' id='descriptionsalaProve'>
             <h1 style={{marginTop:'10%'}}>Contatti</h1>
             <div className='contactsDetails'>
-                    <p> <Icon name='map marker alternate'/> via remorsella 22/2, Bologna</p>
-                    <p> <Icon name="time"/> 9:00 - 22:00 dal lunedì al venerdi,</p>
-                    <p> <Icon name="none"/> 9:00 - 20:00 il sabato,</p>
-                    <p> <Icon name="none"/> domenica siamo chiusi.</p>
+                    <p> <Icon name='map marker alternate'/> Via Remorsella 22/2, Bologna</p>
+                    <p> <Icon name="time"/> 10:00 - 22:00 dal Lunedì al Venerdì</p>
+                    <p> <Icon name="none"/> 10:00 - 20:00 il Sabato</p>
+                    <p> <Icon name="none"/> Domenica siamo chiusi</p>
                     <p> <Icon name="phone"/> 051 095 1961</p>
+                    <p> <Icon name="whatsapp"/> 375 65 53 490</p>
                     <p>Per qualsiasi informazione contattaci</p>
                 </div>
         </div>
