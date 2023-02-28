@@ -83,7 +83,7 @@ const Home = () => {
                 <div className='headerDescriptionContainer'>
                     <h1>Scegli una sala</h1>
                     <p className='pStyle'>Micro-Bo è un circolo <span><img src={aicsLogo} className='aicsLogoSpan'/></span> dedicato alla musica!</p>
-                    <p className='pStyle'>La nostra sede è provvista di tre sale, ciascuna destinata ad uno specifico utilizzo.</p>
+                    <p className='pStyle'>La nostra sede è provvista di tre sale, ognuna destinata ad uno specifico utilizzo.</p>
                 </div>
                 <div className='SalaMap'>
                     <div className='salaMapRow'>
