@@ -4,8 +4,8 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a lo
 import SalaProve from "../Sale/SalaProve.js";
 import Produzione from "../Sale/Produzione.js";
 import SalaGrande from "../Sale/SalaGrande.js";
-import Service from "../Others/Service.js";
-import Rec from "../Others/Rec.js";
+
+
 import Tessera from "../Others/Tessera.js";
 import Contacts from "../Others/Contacts.js";
 
@@ -82,8 +82,8 @@ const Home = () => {
             <div className='Body'>
                 <div className='headerDescriptionContainer'>
                     <h1>Scegli una sala</h1>
-                    <p className='pStyle'>Micro-Bo è un circolo <span><img src={aicsLogo} className='aicsLogoSpan'/></span> destinato alla musica!</p>
-                    <p className='pStyle'>Il nostro spazio prevede tre sale, ciascuna destinata ad uno specifico utilizzo.</p>
+                    <p className='pStyle'>Micro-Bo è un circolo <span><img src={aicsLogo} className='aicsLogoSpan'/></span> dedicato alla musica!</p>
+                    <p className='pStyle'>La nostra sede è provvista di tre sale, ciascuna destinata ad uno specifico utilizzo.</p>
                 </div>
                 <div className='SalaMap'>
                     <div className='salaMapRow'>
@@ -103,8 +103,7 @@ const Home = () => {
                 <SalaProve/>
                 <Produzione/>
                 <SalaGrande/>
-                <Service/>
-                <Rec/>
+               
                 <Tessera/>
                 <Contacts/>
             </div>

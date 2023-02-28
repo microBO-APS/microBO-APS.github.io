@@ -1,5 +1,5 @@
 import React,{useRef} from 'react'
-import cassa from '../../Media/cassa.png'
+
 import emailjs from '@emailjs/browser';
 import { Icon } from 'semantic-ui-react'
 
@@ -49,8 +49,10 @@ const Contacts = () => {
             <form ref={form} onSubmit={sendEmail}>
                 <label>Oggetto</label>
                 <select id="country" name="subject">
-                    <option value="info">Info</option>
-                    <option value="Proposta evento">Proposta Evento</option>
+                    <option value="Info">Info</option>
+                    <option value="Recording">Recording</option>
+                    <option value="Service">Service</option>
+                    <option value="Sala Prova">Sala Prove</option>
                 </select>
                 <label>Nome Cognome</label>
                 <input required type="text" name="name"/>
