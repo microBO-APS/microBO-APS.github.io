@@ -1,7 +1,7 @@
 import './App.css';
 import NavBar from './Components/NavBar/NavBar.js';
 import Home from './Components/Home/Home.js';
-import Service from './Components/Others/Service.js';
+
 import {
   BrowserRouter,
   Switch,
@@ -17,13 +17,10 @@ function App() {
         </div> 
         <div className="AppContainer">
         <Switch>
-            <Route exact path="/microbo-site">
+            <Route exact path="/">
               <Home />
             </Route>
-            <Route path="microbo-site/Service">
-              <Service />
-            </Route>
-          </Switch>
+        </Switch>
         </div>
 
     </BrowserRouter>
