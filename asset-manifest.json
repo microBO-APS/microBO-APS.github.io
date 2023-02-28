@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.42ddb71b.chunk.css",
-    "main.js": "/static/js/main.8a8a439e.chunk.js",
-    "main.js.map": "/static/js/main.8a8a439e.chunk.js.map",
+    "main.js": "/static/js/main.866c987f.chunk.js",
+    "main.js.map": "/static/js/main.866c987f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ebcd190d.js",
     "runtime-main.js.map": "/static/js/runtime-main.ebcd190d.js.map",
     "static/css/2.853ca3bb.chunk.css": "/static/css/2.853ca3bb.chunk.css",
-    "static/js/2.57b4819f.chunk.js": "/static/js/2.57b4819f.chunk.js",
-    "static/js/2.57b4819f.chunk.js.map": "/static/js/2.57b4819f.chunk.js.map",
+    "static/js/2.acf9eebc.chunk.js": "/static/js/2.acf9eebc.chunk.js",
+    "static/js/2.acf9eebc.chunk.js.map": "/static/js/2.acf9eebc.chunk.js.map",
     "static/js/3.c57e452f.chunk.js": "/static/js/3.c57e452f.chunk.js",
     "static/js/3.c57e452f.chunk.js.map": "/static/js/3.c57e452f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.853ca3bb.chunk.css.map": "/static/css/2.853ca3bb.chunk.css.map",
     "static/css/main.42ddb71b.chunk.css.map": "/static/css/main.42ddb71b.chunk.css.map",
-    "static/js/2.57b4819f.chunk.js.LICENSE.txt": "/static/js/2.57b4819f.chunk.js.LICENSE.txt",
+    "static/js/2.acf9eebc.chunk.js.LICENSE.txt": "/static/js/2.acf9eebc.chunk.js.LICENSE.txt",
     "static/media/PearlT.2b21f5f8.png": "/static/media/PearlT.2b21f5f8.png",
     "static/media/Produzione.85936b50.jpg": "/static/media/Produzione.85936b50.jpg",
     "static/media/ProduzioneHigh.6a2af58f.jpg": "/static/media/ProduzioneHigh.6a2af58f.jpg",
     "static/media/aicsLogo.df78d628.png": "/static/media/aicsLogo.df78d628.png",
     "static/media/booth.a5f0100f.jpeg": "/static/media/booth.a5f0100f.jpeg",
     "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
-    "static/media/cassa.f37bbf5c.png": "/static/media/cassa.f37bbf5c.png",
     "static/media/logo.1066d54f.png": "/static/media/logo.1066d54f.png",
     "static/media/mixerFakeT.0b965a88.png": "/static/media/mixerFakeT.0b965a88.png",
     "static/media/pianoT.9854e716.png": "/static/media/pianoT.9854e716.png",
@@ -32,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.ebcd190d.js",
     "static/css/2.853ca3bb.chunk.css",
-    "static/js/2.57b4819f.chunk.js",
+    "static/js/2.acf9eebc.chunk.js",
     "static/css/main.42ddb71b.chunk.css",
-    "static/js/main.8a8a439e.chunk.js"
+    "static/js/main.866c987f.chunk.js"
   ]
 }
