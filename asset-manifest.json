@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/microbo-site/static/css/main.42ddb71b.chunk.css",
+    "main.js": "/microbo-site/static/js/main.d2877a8c.chunk.js",
+    "main.js.map": "/microbo-site/static/js/main.d2877a8c.chunk.js.map",
+    "runtime-main.js": "/microbo-site/static/js/runtime-main.b132a35b.js",
+    "runtime-main.js.map": "/microbo-site/static/js/runtime-main.b132a35b.js.map",
+    "static/css/2.22d268bd.chunk.css": "/microbo-site/static/css/2.22d268bd.chunk.css",
+    "static/js/2.577a719d.chunk.js": "/microbo-site/static/js/2.577a719d.chunk.js",
+    "static/js/2.577a719d.chunk.js.map": "/microbo-site/static/js/2.577a719d.chunk.js.map",
+    "static/js/3.c57e452f.chunk.js": "/microbo-site/static/js/3.c57e452f.chunk.js",
+    "static/js/3.c57e452f.chunk.js.map": "/microbo-site/static/js/3.c57e452f.chunk.js.map",
+    "index.html": "/microbo-site/index.html",
+    "static/css/2.22d268bd.chunk.css.map": "/microbo-site/static/css/2.22d268bd.chunk.css.map",
+    "static/css/main.42ddb71b.chunk.css.map": "/microbo-site/static/css/main.42ddb71b.chunk.css.map",
+    "static/js/2.577a719d.chunk.js.LICENSE.txt": "/microbo-site/static/js/2.577a719d.chunk.js.LICENSE.txt",
+    "static/media/PearlT.2b21f5f8.png": "/microbo-site/static/media/PearlT.2b21f5f8.png",
+    "static/media/Produzione.85936b50.jpg": "/microbo-site/static/media/Produzione.85936b50.jpg",
+    "static/media/ProduzioneHigh.6a2af58f.jpg": "/microbo-site/static/media/ProduzioneHigh.6a2af58f.jpg",
+    "static/media/aicsLogo.df78d628.png": "/microbo-site/static/media/aicsLogo.df78d628.png",
+    "static/media/booth.a5f0100f.jpeg": "/microbo-site/static/media/booth.a5f0100f.jpeg",
+    "static/media/semantic.min.css": "/microbo-site/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/cassa.f37bbf5c.png": "/microbo-site/static/media/cassa.f37bbf5c.png",
+    "static/media/logo.1066d54f.png": "/microbo-site/static/media/logo.1066d54f.png",
+    "static/media/mixerFakeT.0b965a88.png": "/microbo-site/static/media/mixerFakeT.0b965a88.png",
+    "static/media/pianoT.9854e716.png": "/microbo-site/static/media/pianoT.9854e716.png",
+    "static/media/rode.efbe28f6.png": "/microbo-site/static/media/rode.efbe28f6.png",
+    "static/media/salaGrande.72103255.jpg": "/microbo-site/static/media/salaGrande.72103255.jpg",
+    "static/media/salaProveBack.c35c0fa5.jpg": "/microbo-site/static/media/salaProveBack.c35c0fa5.jpg",
+    "static/media/salaProveIngresso1.3b7bf49c.jpg": "/microbo-site/static/media/salaProveIngresso1.3b7bf49c.jpg",
+    "static/media/sureSM.1141c67a.jpg": "/microbo-site/static/media/sureSM.1141c67a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b132a35b.js",
+    "static/css/2.22d268bd.chunk.css",
+    "static/js/2.577a719d.chunk.js",
+    "static/css/main.42ddb71b.chunk.css",
+    "static/js/main.d2877a8c.chunk.js"
+  ]
+}
