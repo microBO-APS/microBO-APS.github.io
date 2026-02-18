@@ -70,7 +70,7 @@ const SalaProve = () => {
         <div className='calendarPanel' id='calendarsalaProve'>
             <h1>Calendario sala prove</h1>
             <p className='pDescription'>Qui puoi vedere quando è libera la sala prove. <br></br> Dal lunedì al venerdi siamo aperti dalle 9:00 fino alle 22:00. Il sabato siamo aperti dalle 10:00 alle 20:00. <br></br>Domenica siamo al bar. 🍷</p>
-            <ReactEmbeddedGoogleCalendar publicUrl ="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23f5f5f5&ctz=Europe%2FRome&showTitle=0&showNav=1&mode=WEEK&showPrint=0&showTabs=0&showTz=0&showCalendars=0&showDate=1&src=bWljcm9iZWJvQGdtYWlsLmNvbQ&color=%7D3020" 
+            <ReactEmbeddedGoogleCalendar publicUrl ="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23f5f5f5&ctz=Europe%2FRome&showTitle=0&showNav=1&mode=WEEK&showPrint=0&showTabs=0&showTz=0&showCalendars=0&showDate=1&src=b2tkNWJodG4wdmU5OTJpdW1sb3UxaTljNWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%7D3020" 
             height= '400px' widht="800px"/>
         </div>
         <div className="buttonCalendarContainer">
